@@ -13,6 +13,9 @@
 		60180ED81D8708E900B220FA /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 60180ED61D8708E900B220FA /* Main.storyboard */; };
 		60180EDA1D8708E900B220FA /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 60180ED91D8708E900B220FA /* Assets.xcassets */; };
 		60180EDD1D8708E900B220FA /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 60180EDB1D8708E900B220FA /* LaunchScreen.storyboard */; };
+		60180EED1D87115800B220FA /* moon.png in Resources */ = {isa = PBXBuildFile; fileRef = 60180EEA1D87115800B220FA /* moon.png */; };
+		60180EEE1D87115800B220FA /* earth.png in Resources */ = {isa = PBXBuildFile; fileRef = 60180EEB1D87115800B220FA /* earth.png */; };
+		60180EEF1D87115800B220FA /* sun.png in Resources */ = {isa = PBXBuildFile; fileRef = 60180EEC1D87115800B220FA /* sun.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +29,9 @@
 		60180ED91D8708E900B220FA /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		60180EDC1D8708E900B220FA /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		60180EDE1D8708E900B220FA /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		60180EEA1D87115800B220FA /* moon.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = moon.png; sourceTree = "<group>"; };
+		60180EEB1D87115800B220FA /* earth.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = earth.png; sourceTree = "<group>"; };
+		60180EEC1D87115800B220FA /* sun.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = sun.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,6 +64,9 @@
 		60180ECC1D8708E900B220FA /* iEarthSunMoon */ = {
 			isa = PBXGroup;
 			children = (
+				60180EEA1D87115800B220FA /* moon.png */,
+				60180EEB1D87115800B220FA /* earth.png */,
+				60180EEC1D87115800B220FA /* sun.png */,
 				60180ED01D8708E900B220FA /* AppDelegate.h */,
 				60180ED11D8708E900B220FA /* AppDelegate.m */,
 				60180ED31D8708E900B220FA /* ViewController.h */,
@@ -136,6 +145,9 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				60180EEF1D87115800B220FA /* sun.png in Resources */,
+				60180EED1D87115800B220FA /* moon.png in Resources */,
+				60180EEE1D87115800B220FA /* earth.png in Resources */,
 				60180EDD1D8708E900B220FA /* LaunchScreen.storyboard in Resources */,
 				60180EDA1D8708E900B220FA /* Assets.xcassets in Resources */,
 				60180ED81D8708E900B220FA /* Main.storyboard in Resources */,
